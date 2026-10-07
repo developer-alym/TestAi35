@@ -1,2 +1,2 @@
-def registration():
-    return 'succes registration'
+def basket():
+    return 'succes added product'
